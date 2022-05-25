@@ -6,11 +6,11 @@
 
 | Violin | Dispersión | Histograma |
 |--------|----------|------|
-|<img src="imagenes/Violinfi.png" width="400">|<img src="imagenes/pkm.png" width="400">|<img src="imagenes/pokemon.png" width="400">|
+|<img src="imagenes/Violinfi.png" width="400">|<img src="imagenes/Pkm.png" width="400">|<img src="imagenes/pokemon.png" width="400">|
 
 | Animaciones | Covid | Radar |
 |--------|----------|------|
-|<img src="imagenes/animacion1.gif" width="400">|<img src="imagenes/CovidEdoMex.png" width="700">|<img src="imagenes/radar.png" width="490">|
+|<img src="imagenes/animacion1.gif" width="400">|<img src="imagenes/covidEdoMex.png" width="700">|<img src="imagenes/radar.png" width="490">|
 
 
 | Evolución | Densidad2d | Burbujas |
