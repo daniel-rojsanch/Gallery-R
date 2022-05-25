@@ -6,7 +6,7 @@
 
 | Violin | Dispersión | Histograma |
 |--------|----------|------|
-|<img src="imagenes/violinfi.png" width="400">|<img src="imagenes/pkm.png" width="400">|<img src="imagenes/pokemon.png" width="400">|
+|<img src="imagenes/Violinfi.png" width="400">|<img src="imagenes/pkm.png" width="400">|<img src="imagenes/pokemon.png" width="400">|
 
 | Animaciones | Covid | Radar |
 |--------|----------|------|
