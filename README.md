@@ -23,7 +23,7 @@
 |<img src="imagenes/animacion1.gif" width="400">|<img src="imagenes/covidEdoMex.png" width="700">|<img src="imagenes/radar.png" width="490">|
 
 
-| Evolución | Densidad2d | Burbujas |
+| Evolución | WordCloud | Burbujas |
 |--------|----------|------|
 |<img src="tiger.gif" width="400">|<img src="Img/wordcloud_beatles.png" width="400">|<img src="imagenes/burbujas.png" width="400">|
 
