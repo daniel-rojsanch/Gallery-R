@@ -9,6 +9,7 @@
 
 | Animaciones | WordCloud |
 |--------|----------|
-| ![lorenz](Img/tiger.gif)| ![word](Img/wordcloud_beatles.png) | 
+| ![lorenz](Img/tiger.gif)| ![word](Img/wordcloud_beatles.png) |
 
 
+![barplot](Img/poke2.svg)
